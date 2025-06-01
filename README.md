@@ -22,9 +22,6 @@ This file is the main file that includes all blowfish algorithm functions and da
 ## 2. blowfish_sboxes.py
 This file contains the complete list of 4 s-boxes values. This file is seperated form the blowfish_app.py for better readability.
 
-## 2. dependencies.txt
-This file contains the required dependencies to be installed in order to run the application.
-<br />
 
 # How To Use:
 1. Enter a secret key to be used for data encryption & decryption
