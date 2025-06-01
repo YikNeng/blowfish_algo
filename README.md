@@ -12,10 +12,22 @@ An application that allows users to encrypt and devrypt messages using Blowfish 
 | Pang Yik Neng     | 216791  |
 | Quah Eugene | 216806  |
 
+# File Content
+## 1. blowfish_app.py
+
 # Installation
-## Clone The Repository
+## 1. Clone The Repository
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+git clone https://github.com/YikNeng/blowfish_algo.git
+cd blowfish_algo
+```
+
+## 2. Install Dependencies
+```
+pip install -r dependencies.txt
+```
+
+## 3. Run The App
+```
+python blowfish_app.py
 ```
