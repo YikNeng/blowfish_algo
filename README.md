@@ -41,12 +41,8 @@ git clone https://github.com/YikNeng/blowfish_algo.git
 cd blowfish_algo
 ```
 
-## 2. Install Dependencies
-```
-pip install -r dependencies.txt
-```
 
-## 3. Run The App
+## 2. Run The App
 ```
 python blowfish_app.py
 ```
