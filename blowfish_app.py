@@ -22,7 +22,7 @@ class Blowfish:
 
     def encrypt_block(self, L, R):
 
-        # Perform 16 rounds until p[16]
+        # Perform 16 rounds until P[15]
         for i in range(16):
             L ^= self.P[i]  # left part XOR with subkey
             R ^= self.f(L)  # right part XOR with left part produced after function f
